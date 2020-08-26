@@ -1,0 +1,6 @@
+#Archivos que no se van a respaldar en el repositorio
+Nuevo documento de texto.txt
+*.tmp
+
+#Directorios que no se van a respaldar en el repositorio
+.\tmp
